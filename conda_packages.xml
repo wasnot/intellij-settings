@@ -107,7 +107,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.4" />
         <entry key="contextlib2" value="0.5.4" />
-        <entry key="continuum-docs" value="2.0.4" />
+        <entry key="continuum-docs" value="2.0.7" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.3.4" />
@@ -509,7 +509,7 @@
         <entry key="readline" value="6.2" />
         <entry key="redis" value="3.2.0" />
         <entry key="redis-py" value="2.10.5" />
-        <entry key="reportlab" value="3.3.0" />
+        <entry key="reportlab" value="3.4.0" />
         <entry key="repoze.lru" value="0.6" />
         <entry key="requests" value="2.13.0" />
         <entry key="requests-file" value="1.4.1" />
@@ -2085,6 +2085,7 @@
               <option value="2.0.2" />
               <option value="2.0.3" />
               <option value="2.0.4" />
+              <option value="2.0.7" />
             </list>
           </value>
         </entry>
@@ -6276,6 +6277,7 @@
               <option value="3.0" />
               <option value="3.1.44" />
               <option value="3.3.0" />
+              <option value="3.4.0" />
             </list>
           </value>
         </entry>
@@ -7796,6 +7798,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/osx-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1489017738665" />
+    <option name="LAST_TIME_CHECKED" value="1489121669687" />
   </component>
 </application>
