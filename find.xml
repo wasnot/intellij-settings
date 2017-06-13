@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,19 +13,19 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.py</mask>
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
+      <mask>*.ipy</mask>
+      <mask>*.ipynb</mask>
+      <mask>*.ipyn</mask>
+      <mask>*.ip</mask>
+      <mask>*.i</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
-      <mask>*.i</mask>
-      <mask>*.ip</mask>
-      <mask>*.ipy</mask>
-      <mask>*.ipyn</mask>
-      <mask>*.ipynb</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
