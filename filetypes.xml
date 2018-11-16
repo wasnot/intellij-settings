@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_fe" type="PLAIN_TEXT" />
       <mapping pattern="Docker_cpu" type="PLAIN_TEXT" />
+      <mapping pattern="tete" type="PLAIN_TEXT" />
       <mapping pattern="fashion_cnn_model" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
