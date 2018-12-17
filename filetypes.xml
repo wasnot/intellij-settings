@@ -5,9 +5,9 @@
       <mapping pattern="Dockerfile2" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile_fe" type="PLAIN_TEXT" />
       <mapping pattern="Docker_cpu" type="PLAIN_TEXT" />
+      <mapping pattern="tete" type="PLAIN_TEXT" />
       <mapping pattern="fashion_cnn_model" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
-      <mapping pattern="tete" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
@@ -22,6 +22,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="caffemodel" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
